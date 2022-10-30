@@ -1,0 +1,16 @@
+{
+"name": "raiderjane'scryptoffortune",
+"theme": "raider jane's crypt of fortune",
+"version": "7.1.9",
+"description": "raider jane's crypt of fortune ทางเข้าเว็บพนันเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"raider jane's crypt of fortune",
+"raider jane's crypt of fortune เครดิตฟรี",
+"raider jane's crypt of fortune ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/raiderjane'scryptoffortune",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
